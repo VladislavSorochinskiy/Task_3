@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 using System.Text;
 
 namespace Task3
@@ -14,18 +15,12 @@ namespace Task3
                 return;
             }
 
-            for (int i = 0; i < args.Length; i++)
+            if (args.Distinct().Count() != args.Length)
             {
-                for (int j = 1; j < args.Length; j++)
-                {
-                    if (args[j].Equals(args[j - 1]))
-                    {
-                        Console.WriteLine("Each arhument must be unique");
-                        return;
-                    }
-                }
+                Console.WriteLine("Each arhument must be unique");
+                return;
             }
-
+                
             string condition = null;
             Random rnd = new Random();
 
