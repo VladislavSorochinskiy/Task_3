@@ -1,0 +1,8 @@
+C:\Users\Usver\Desktop\Task_3\Task_3\Task_3\bin\Debug\Task_3.exe.config
+C:\Users\Usver\Desktop\Task_3\Task_3\Task_3\bin\Debug\Task_3.exe
+C:\Users\Usver\Desktop\Task_3\Task_3\Task_3\bin\Debug\Task_3.pdb
+C:\Users\Usver\Desktop\Task_3\Task_3\Task_3\obj\Debug\Task_3.csproj.AssemblyReference.cache
+C:\Users\Usver\Desktop\Task_3\Task_3\Task_3\obj\Debug\Task_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usver\Desktop\Task_3\Task_3\Task_3\obj\Debug\Task_3.csproj.CoreCompileInputs.cache
+C:\Users\Usver\Desktop\Task_3\Task_3\Task_3\obj\Debug\Task_3.exe
+C:\Users\Usver\Desktop\Task_3\Task_3\Task_3\obj\Debug\Task_3.pdb
